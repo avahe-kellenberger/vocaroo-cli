@@ -7,7 +7,7 @@
 Run the command to install.
 
 ```sh
-$ placeholder
+$ curl -Lo- "https://raw.githubusercontent.com/avahe-kellenberger/vocaroo-cli/master/install.sh" | sudo bash
 ```
 
 ## Usage
