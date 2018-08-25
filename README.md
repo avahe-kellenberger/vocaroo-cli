@@ -20,7 +20,7 @@ vocaroo /path/to/file
 
 Disclaimer: I am in no way affiliated with [vocaroo.com](https://vocaroo.com/)
 
-Special thanks to **Sappirus** ([Github](https://github.com/SapphirusBeryl)) and **Anthony** ([Github](https://github.com/adedomin)) for contributing to this project.
+Special thanks to **Sapphirus** ([Github](https://github.com/SapphirusBeryl)) for assisting with the main curl command to upload files, and to **Anthony** ([Github](https://github.com/adedomin)), the bash specialist, for pretty much everything else.
 
 ## Uninstall
 
