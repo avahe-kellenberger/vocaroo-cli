@@ -2,8 +2,7 @@
 
 `vocaroo-cli` is a simple tool for uploading sound files to [vocaroo.com]("https://vocaroo.com/?upload").
 
-**Disclaimer: I am in no way affiliated with [vocaroo.com](https://vocaroo.com/)**
-**Please only upload sound files, and do not abuse this tool or their site.**
+**Disclaimer: I am in no way affiliated with [vocaroo.com](https://vocaroo.com/). Please only upload sound files, and do not abuse this tool or their site.**
 ## Installation
 
 Run the command to install:
@@ -29,13 +28,11 @@ Open Ardour and navigate to:
 ```sh
 1. Session > Export > Export to Audio File(s)...
 2. Click "Edit" on the right-hand side of the "Format" drop-down selector
-3. In the "Command to run post-export" box, paste the following command:
+3. In the "Command to run post-export" box, paste the following command: vocaroo-ardour %f
 ```
-`vocaroo-ardour %f`
 
 ## Uninstall
-All files are stored in `/usr/local/bin/vocaroo/`
-Run the command to uninstall
+Run the command to uninstall:
 ```sh
 sudo rm -rf "/usr/local/bin/vocaroo*"
 ```
