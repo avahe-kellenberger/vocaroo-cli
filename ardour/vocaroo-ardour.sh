@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e
 
 full_path=""
@@ -9,4 +9,4 @@ done
 
 output="$(printf "%s\n" "$(vocaroo "$full_path")")"
 
-xdg-open "$output" 
+xdg-open "$output"
