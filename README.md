@@ -37,7 +37,7 @@ Open Ardour and navigate to:
 All files are stored in `/usr/local/bin/vocaroo/`
 Run the command to uninstall
 ```sh
-sudo rm -rf "/usr/local/bin/vocaroo"
+sudo rm -rf "/usr/local/bin/vocaroo*"
 ```
 
 **If you have complaints or suggestions, feel free to open an issue with the project.**
