@@ -8,7 +8,7 @@ curl -L "https://raw.githubusercontent.com/avahe-kellenberger/vocaroo-cli/master
 curl -L "https://raw.githubusercontent.com/avahe-kellenberger/vocaroo-cli/master/ardour/vocaroo-ardour.sh" -o "${PWD}/vocaroo-ardour.sh"
 
 install -Dm755 "${temp_dir}/vocaroo.sh" "/usr/local/bin/vocaroo"
-install -Dm755 "${temp_dir}/vocaroo-ardour.sh" "/usr/local/bin/vocaroo"
+install -Dm755 "${temp_dir}/vocaroo-ardour.sh" "/usr/local/bin/vocaroo-ardour"
 
 cd "/"
 trap 'rm -rf "${temp_dir}"' EXIT
