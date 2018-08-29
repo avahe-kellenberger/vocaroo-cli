@@ -34,7 +34,7 @@ Open Ardour and navigate to:
 ## Uninstall
 Run the command to uninstall:
 ```sh
-sudo rm -rf "/usr/local/bin/vocaroo*"
+$ curl -Lo- "https://raw.githubusercontent.com/avahe-kellenberger/vocaroo-cli/master/uninstall.sh" | sudo bash
 ```
 
 **If you have complaints or suggestions, feel free to open an issue with the project.**
