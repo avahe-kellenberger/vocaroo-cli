@@ -1,8 +1,8 @@
 # vocaroo-cli
 
-**Note: This project has been deprecated. See my [transfer.sh]("https://github.com/avahe-kellenberger/transfer-sh") project instead, for better audio quality.**
+**Note: This project has been deprecated. See my [transfer-sh](https://github.com/avahe-kellenberger/transfer-sh) project instead, for better audio quality.**
 
-`vocaroo-cli` is a simple tool for uploading sound files to [vocaroo.com]("https://vocaroo.com/?upload").
+`vocaroo-cli` is a simple tool for uploading sound files to [vocaroo.com](https://vocaroo.com/?upload).
 
 **Disclaimer: I am in no way affiliated with [vocaroo.com](https://vocaroo.com/). Please only upload sound files, and do not abuse this tool or their site.**
 ## Installation
